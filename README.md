@@ -22,4 +22,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://github.com/VMA9/kodluyoruzilkrepo/blob/main/LICENSE)
 [GitHub](https://github.com/VMA9)
 [Patika Profilim](https://app.patika.dev/vma)
+
+
 ![kodluyoruz](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
