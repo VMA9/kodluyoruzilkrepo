@@ -1,7 +1,7 @@
 #Kodluyoruz Ilk Repo
 Bu repo Kodluyoruz Back-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![örnek](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
+![örnek1](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
 #Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
@@ -21,3 +21,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 #License
 [MIT](https://github.com/VMA9/kodluyoruzilkrepo/blob/main/LICENSE)
 [GitHub](https://github.com/VMA9)
+[Patika Profilim](https://app.patika.dev/vma)
+![kodluyoruz](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
